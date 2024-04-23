@@ -1,9 +1,188 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T11:13:12.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.2.8" etag="ijRRte8KepdvAaJs2aay" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T11:42:50.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="ng-5NqZGeVvbk-Adx1-w" version="24.2.8" type="github">
   <diagram name="Page-1" id="5SnWJTPVPUndH_0Iqbkw">
-    <mxGraphModel>
+    <mxGraphModel dx="2588" dy="1591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TOVnCuBwb251_DOz-tfz-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=1;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-25" y="-26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15.166666666666742" y="-14.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55.16666666666674" y="9.916666666666742" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-117.33333333333326" y="86.16666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120.66666666666663" y="126.16666666666674" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-62" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-24.95652173913038" y="198.6956787109375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;zoo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="66" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-5" value="Nombre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="-60" width="75" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-7" value="ciudad" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-17.5" y="-46" width="65" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-9" value="país" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="34.5" y="-25.5" width="48" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-11" value="tamaño" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="70" width="71" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-13" value="pto. anual" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-207" y="108" width="88" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="428.57142857142867" y="-71.85709926060258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=1;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="464.28571428571445" y="-50.42852783203125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500.0000000000002" y="-16.142813546316802" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630.0000000000002" y="90.28571428571445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Especie&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="70" width="143" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-16" value="nombre_v" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="383" y="-112" width="89" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-18" value="nombre_c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="436.5" y="-85.5" width="89" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-20" value="familia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="479.5" y="-55.5" width="64" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-22" value="peligro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="631.5" y="76.5" width="66" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;entryX=0.002;entryY=0.451;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-37" target="TOVnCuBwb251_DOz-tfz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="382" y="106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-37" target="TOVnCuBwb251_DOz-tfz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;es albergado&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="66" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-45" target="TOVnCuBwb251_DOz-tfz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-45" target="TOVnCuBwb251_DOz-tfz-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;pertenece a&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="265" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=1;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="634.6363636363635" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-52" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="638.272727272727" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500.2608695652175" y="583.0435313349185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="428.9565217391305" y="576.9565217391305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=0;" edge="1" parent="1" source="TOVnCuBwb251_DOz-tfz-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312.43478260869574" y="500.8695652173915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Animal&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="440" width="143" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-51" value="id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="660.5" y="442.5" width="30" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-53" value="sexo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="653.5" y="481.5" width="52" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-55" value="año_nac" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="583" width="79" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-57" value="país_o" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="389" y="576" width="66" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-59" value="continente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="213" y="486" width="92" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-60" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="481.5" y="406.5" width="27" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-61" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="478.5" y="150.5" width="27" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-63" value="especie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-61.5" y="197.5" width="73" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-64" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="425.5" y="410.5" width="27" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-65" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="428.5" y="147.5" width="27" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-66" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="555" y="287" width="51" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-67" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="98.5" y="66.5" width="27" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-68" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="62.5" width="27" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-69" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="95.5" y="109.5" width="27" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-70" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="116.5" width="27" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TOVnCuBwb251_DOz-tfz-71" value="(n,m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="223.5" y="31.5" width="55" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
